@@ -115,3 +115,15 @@ form textarea{
 iframe{
     width: 100%;
 }
+
+footer{
+    text-align: center;
+    border: 1px solid #91e467;
+    background-color: #d2fbbd;
+    text-decoration: none;
+    color: #000;
+    border-radius: 5px;
+    display: flexbox;
+    padding: 10px 20px;
+}
+}
